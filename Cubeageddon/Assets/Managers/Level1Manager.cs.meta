@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 473048a0f522f7842bd9740cacc74e68
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreCounter: {instanceID: 0}
+  - ship: {instanceID: 0}
+  - end: {instanceID: 0}
+  - cubes: {fileID: 100000, guid: 83943cd1efb217645bbb2b6bd111115b, type: 2}
+  - pauseMenuScreenColor: {fileID: 2100000, guid: 9d884f01a0aed344ba72f380aa644b13,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
